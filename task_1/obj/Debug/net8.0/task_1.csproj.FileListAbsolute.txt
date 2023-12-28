@@ -1,0 +1,14 @@
+C:\Users\berg\Desktop\recursion\task\task_1\bin\Debug\net8.0\task_1.exe
+C:\Users\berg\Desktop\recursion\task\task_1\bin\Debug\net8.0\task_1.deps.json
+C:\Users\berg\Desktop\recursion\task\task_1\bin\Debug\net8.0\task_1.runtimeconfig.json
+C:\Users\berg\Desktop\recursion\task\task_1\bin\Debug\net8.0\task_1.dll
+C:\Users\berg\Desktop\recursion\task\task_1\bin\Debug\net8.0\task_1.pdb
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.dll
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\refint\task_1.dll
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.pdb
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
+C:\Users\berg\Desktop\recursion\task\task_1\obj\Debug\net8.0\ref\task_1.dll
